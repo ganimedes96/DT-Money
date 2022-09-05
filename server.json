@@ -1,0 +1,36 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "venda",
+      "price": 14000,
+      "createdAt": "Thu Sep 01 2022 11:43:24 GMT-0300"
+    },
+    {
+      "id": 2,
+      "description": "Batata frita",
+      "type": "outcome",
+      "category": "Alimentacao",
+      "price": 35,
+      "createdAt": "Thu Sep 01 2022 10:43:24 GMT-0300"
+    },
+    {
+      "description": "Compras no supermercado",
+      "type": "outcome",
+      "price": 450,
+      "category": "Alimentacao",
+      "createdAt": "2022-09-02T14:40:27.652Z",
+      "id": 3
+    },
+    {
+      "description": "PS5",
+      "type": "outcome",
+      "price": 5000,
+      "category": "Games",
+      "createdAt": "2022-09-02T15:09:24.439Z",
+      "id": 4
+    }
+  ]
+}
