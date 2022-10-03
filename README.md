@@ -81,7 +81,7 @@ $ git push origin my-feature
 After your pull request is merged, you can delete your branch
 
 ---
+<div align="center">Made with 💜 &nbsp;by Hudson Felix 👋 &nbsp;[See my linkedin](https://www.linkedin.com/in/hudson-felix-577305215/)</div>
 
-Made with 💜 &nbsp;by Hudson Felix 👋 &nbsp;[See my linkedin](https://www.linkedin.com/in/hudson-felix-577305215/)
 
 
