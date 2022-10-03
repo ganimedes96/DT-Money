@@ -55,11 +55,12 @@ $ yarn
 
 # Start the client
 $ yarn dev
-```
 
 # start json server
 $ npm run server
 ```
+
+
 
 **follow the steps below to clone the repository on your machine**
 
