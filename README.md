@@ -82,7 +82,7 @@ After your pull request is merged, you can delete your branch
 
 ---
 <div align="center">
-	<h2>Made with 💜 &nbsp;by Hudson Felix 👋 &nbsp;[See my linkedin](https://www.linkedin.com/in/hudson-felix-577305215/)</h2>
+	<h2>Made with 💜 &nbsp;by Hudson Felix 👋<a href="https://www.linkedin.com/in/hudson-felix-577305215/">See my Linkedin</a></h2>
 </div>
 
 
