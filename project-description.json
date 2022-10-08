@@ -33,6 +33,10 @@
     ],
     "videos":[
         "https://raw.githubusercontent.com/ganimedes96/DT-Money/main/.github/dtMoney.mp4"
-    ]
+    ],
+    "images": [
+        "https://raw.githubusercontent.com/ganimedes96/DT-Money/main/.github/dtMoney.jpg"
+       
+       ]
 
 }
