@@ -1,0 +1,38 @@
+{
+"name": "DT-Money",
+    "short_description": "Application built in React.js for simple and fast finance control. with this application you can register your input and output expenses.",
+    "description": "Application built in React.js for simple and fast finance control. with this application you can register your input and output expenses.",
+    
+    "techs": [
+      {
+        "name": "React",
+        "url": "https://reactjs.org/"
+      },
+      {
+        "name":"TypeScript",
+        "url":"https://www.typescriptlang.org"
+      },
+      {
+        "name":"ViteJs",
+        "url":"https://vitejs.dev"
+      },
+      {
+        "name":"Styled Components",
+        "url":"https://www.styled-components.com/"
+      },
+      {
+        "name":"Json Server",
+        "url":"https://www.npmjs.com/package/json-serve"
+      },
+      {
+        "name":"Phosphor",
+        "url":"https://phosphoricons.com"
+      }
+      
+      
+    ],
+    "videos":[
+        "https://raw.githubusercontent.com/ganimedes96/DT-Money/main/.github/dtMoney.mp4"
+    ]
+
+}

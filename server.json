@@ -31,6 +31,22 @@
       "category": "Games",
       "createdAt": "2022-09-02T15:09:24.439Z",
       "id": 4
+    },
+    {
+      "description": "Salario do mes",
+      "type": "income",
+      "price": 2500,
+      "category": "trabalho",
+      "createdAt": "2022-10-03T21:58:41.361Z",
+      "id": 5
+    },
+    {
+      "description": "Cinema",
+      "type": "outcome",
+      "price": 45,
+      "category": "Lazer",
+      "createdAt": "2022-10-03T22:08:19.548Z",
+      "id": 6
     }
   ]
 }
